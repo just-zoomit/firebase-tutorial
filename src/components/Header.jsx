@@ -52,6 +52,7 @@ function useUserSession(initialUser) {
 	return user;
 }
 
+// Header component function
 export default function Header({initialUser}) {
 
 	const user = useUserSession(initialUser) ;
