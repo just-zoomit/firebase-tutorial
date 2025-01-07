@@ -7,10 +7,8 @@ env:
   - variable: NEXT_PUBLIC_FIREBASE_PROJECT_ID
     value: "friendlyeats-3d312"
   - variable: NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
-    value: "friendlyeats-3d312.firebasestorage.app"
+    value: "friendlyeats-3d312.appspot.com"
   - variable: NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
     value: "823338939303"
   - variable: NEXT_PUBLIC_FIREBASE_APP_ID
     value: "1:823338939303:web:055c618c33d872551fbc82"
-
-    
